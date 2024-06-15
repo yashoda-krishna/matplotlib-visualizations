@@ -1,24 +1,4 @@
 
-### Google Advanced Data Analytics
+### Matplotlib Visualizations
 
-<img src="(pro) Google.png" alt="">
-
-
-### Google IT Automation with Python
-<img src="(pro.png" alt="">
-
-
-### Google Project Management
-
-<img src="Google Project.png" alt="">
-
-
-### Google data Analytics
-
-<img src="Google data Analytics.png" alt="">
-
-
-### Google Business Intelligence Professional Certificate
-
-<img src="bi.png" alt="">
-
+<img src="Screenshot 2024-06-15 101912.png" alt="">
